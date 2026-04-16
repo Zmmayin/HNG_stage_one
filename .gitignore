@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.bashrc
+./
+../
+.bash_history
+.bash_logout
+.cache
+.local/
+.profile
+.ssh/
+.sudo_as_admin_successful
+.viminfo
